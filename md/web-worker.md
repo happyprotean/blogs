@@ -30,4 +30,11 @@
 
 [使用web worker](https://developer.mozilla.org/zh-CN/docs/Web/API/Web_Workers_API/Using_web_workers)
 
-## web worker promise化 
+## TODO
+### web worker promise化 
+
+[web worker promise化 ](https://www.naeco.top/2019/04/27/web-worker/)
+
+### Comlink
+
+[Comlink](https://github.com/GoogleChromeLabs/comlink) removes the mental barrier of thinking about postMessage and hides the fact that you are working with workers.
